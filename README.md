@@ -1,2 +1,2 @@
 # SideQuests
-Just some random projects throughout my programming career.
+Just some random projects throughout my programmer career.
